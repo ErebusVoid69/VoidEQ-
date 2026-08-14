@@ -105,7 +105,7 @@ Want to share feedback, report an issue, suggest an effect, or talk about audio?
 
 Join the VoidEQ community.
 
-**[Join the VoidEQ Discord](YOUR_DISCORD_LINK)**
+**[Join the VoidEQ Discord](https://discord.gg/DgTuRrPfp)**
 
 ---
 
